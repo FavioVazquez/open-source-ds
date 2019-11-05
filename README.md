@@ -10,6 +10,13 @@ Taller en DamaWeek México 2019
 pip install --user optimuspyspark
 ```
 
+- Instalar Koalas:
+
+```
+pip install --user koalas
+```
+
+
 - Instalar Plotly:
 
 ```
